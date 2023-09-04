@@ -1,0 +1,14 @@
+.pastContainer > h1{
+    text-align: center;
+}
+
+.cardGrid{
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1em;
+    flex-grow: 1;
+    justify-content: center;
+}
+

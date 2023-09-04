@@ -1,0 +1,28 @@
+.image{
+    /* position: absolute; */
+    width: auto;
+    height: 50vh;
+
+
+}
+
+.title{
+    font-size: 3em;
+    /* color: #FFA700; */
+}
+
+.title > span{
+    /* color: #B2E0DE */
+}
+
+.main{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 75vh;
+    width: 100vw;
+    background-color:white ;
+}
+

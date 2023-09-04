@@ -1,0 +1,16 @@
+.footer{
+    display:flex;
+    flex-direction: column;
+    background-color: #F6F6F4;
+    height: 25%;
+    align-items: center;
+    padding: 2em;
+    margin-top: 5em;
+    font-family: sans-serif;
+}
+
+img{
+    height: 35px;
+    width: auto;
+}
+
